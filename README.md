@@ -1,4 +1,4 @@
-# Blinkit Data Analysis Dashboard
+# Retail Data Analysis Dashboard
 
 ## Project Overview
 
